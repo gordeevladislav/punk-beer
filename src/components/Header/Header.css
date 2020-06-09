@@ -1,0 +1,17 @@
+.Header {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  padding: 25px 50px 25px 50px;
+
+  background-color: #000033;
+}
+
+@media (max-width: 768px) {
+  .Header {
+    flex-direction: column;
+    padding: 0;
+  }
+}

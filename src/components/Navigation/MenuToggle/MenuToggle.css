@@ -1,0 +1,33 @@
+.MenuToggle {
+  position: absolute;
+  display: none;
+  top: 20px;
+  right: 40px;
+
+  font-size: 25px;
+  color: #ffffff;
+
+  background-color: transparent;
+  border: none;
+}
+
+.MenuToggle:hover {
+  opacity: 0.7;
+}
+
+.MenuToggle:active {
+  opacity: 0.3;
+}
+
+@media (max-width: 768px) {
+  .MenuToggle {
+    display: block;
+    transition: all ease-in-out 300ms;
+  }
+}
+
+@media (max-width: 320px) {
+  .MenuToggle {
+    right: 20px;
+  }
+}

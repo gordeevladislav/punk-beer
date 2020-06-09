@@ -1,0 +1,15 @@
+.Logo {
+  height: 28px;
+  font-family: 'Special Elite', cursive;
+  font-size: 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .Logo {
+    max-width: 300px;
+    padding: 20px 0 20px 30px;
+  }
+}

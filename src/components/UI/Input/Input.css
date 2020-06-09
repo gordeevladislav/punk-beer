@@ -1,0 +1,11 @@
+.invalid input {
+  border-color: red;
+}
+
+.invalid span {
+  color: red;
+}
+
+.invalid label {
+  color: red;
+}

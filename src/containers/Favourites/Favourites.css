@@ -1,0 +1,12 @@
+.Favourites {
+  display: flex;
+  flex-direction: column;
+  padding: 0 30px;
+  list-style-type: none;
+}
+
+.Plug {
+  font-size: 40px;
+  padding: 100px;
+  text-align: center;
+}

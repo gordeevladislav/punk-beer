@@ -1,0 +1,15 @@
+.Beer {
+  padding: 0 50px;
+}
+
+@media (max-width: 768px) {
+  .Beer {
+    padding: 0 30px;
+  }
+}
+
+@media (max-width: 320px) {
+  .Beer {
+    padding: 0 20px;
+  }
+}
