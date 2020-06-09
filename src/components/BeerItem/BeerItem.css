@@ -21,6 +21,7 @@
   display: grid;
   grid-template-columns: 50px 1fr;
   grid-column-gap: 30px;
+  min-height: 160px;
 
   text-decoration: none;
   color: #000033;

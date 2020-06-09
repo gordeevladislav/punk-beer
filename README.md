@@ -1,12 +1,12 @@
 ## Punk Beer
 
-<img width="950" alt="Скриншот сайта «Кэт энерджи»" src="cat-energy.png">
+<img width="950" alt="Скриншот Punk Beer" src="punk-beer.gif">
 
 Справочник пива на основе [открытого API](https://punkapi.com/). Single page application с сохранением данных на бэкенде. Сделан самостоятельно после прохождения курса Владилена Минина по React.
 
 **Стек**: React, Redux, React-router, HTML, CSS (flex, grid), axios, Firebase.
 
-[Посмотреть работу]()
+[Посмотреть работу](https://punk-beer-d3ab6.web.app/)
 
 ## Функционал:
 1. Фильтрация карточек с пивом на главной странице;
